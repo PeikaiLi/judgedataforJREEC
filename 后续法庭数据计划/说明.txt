@@ -1,0 +1,1 @@
+FFL_AREACODE 前两位可以表示一个地区11to65
